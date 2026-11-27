@@ -1,0 +1,7 @@
+indicator,type,source,confidence,first_seen,last_seen,tags
+203.0.113.99,,OSINT-demo,70,2026-03-01,2026-03-12,c2
+qxkzpwd3.example,,OSINT-demo,60,2026-03-05,2026-03-13,dga|malware
+micr0soft-account-verify.example,,OSINT-demo,85,2026-03-10,2026-03-13,phishing
+hxxp://203[.]0[.]113[.]150/upload,,OSINT-demo,55,2026-03-08,2026-03-11,exfiltration
+old-botnet-c2.example,,OSINT-demo,80,2025-09-01,2025-10-01,botnet
+198.51.100.7,,OSINT-demo,40,2026-03-09,2026-03-10,scanner

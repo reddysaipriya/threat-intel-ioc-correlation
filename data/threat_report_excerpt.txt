@@ -1,0 +1,9 @@
+SYNTHETIC THREAT REPORT EXCERPT (made up for practice)
+
+The campaign delivers a document named Invoice_March.docm. After the macro runs, the host contacts the
+command-and-control server at 203[.]0[.]113[.]99 over HTTPS and downloads a second stage from
+hxxps://payload-host[.]example/stage2.bin (SHA-256 759b5fb308e9e0471d53ec4c0c26c02ece97310af362c62b39827e067f898c3e).
+Victims were sent mail from billing@micr0soft-account-verify[.]example and shown a fake login page at
+micr0soft-account-verify[.]example/login. Internal host 10.0.3.41 was the first to beacon.
+Data was staged in C:\Temp\data.7z and uploaded to http://203.0.113.150/upload. Analysts should also review
+traffic to old-botnet-c2[.]example, which was seen in earlier activity.

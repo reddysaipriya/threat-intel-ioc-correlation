@@ -1,0 +1,5 @@
+indicator,type,source,confidence,first_seen,last_seen,tags
+203.0.113.99,ip,Vendor-demo,75,2026-03-02,2026-03-13,c2
+759b5fb308e9e0471d53ec4c0c26c02ece97310af362c62b39827e067f898c3e,sha256,Vendor-demo,90,2026-03-11,2026-03-13,malware
+micr0soft-account-verify.example,domain,Vendor-demo,90,2026-03-11,2026-03-13,phishing
+cdn-assets.example,domain,Vendor-demo,30,2026-03-01,2026-03-12,shared-hosting

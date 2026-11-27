@@ -1,0 +1,3 @@
+# Values that must never alert (known-good infrastructure)
+cdn-assets.example   # company CDN, a shared-hosting entry in a feed would otherwise cause noise
+8.8.8.8   # public DNS resolver
